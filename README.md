@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[zabbix](https://altricht.github.io/zabbix(1).md)
+[zabbix](https://altricht.github.io/zabbix监控(1).md)
 
 
 <!--
